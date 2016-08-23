@@ -1,12 +1,15 @@
-**Carnegie Mellon University**
+**Carnegie Mellon University**  
 ***Twisted Signals: Multimedia Processing for the Arts***
 
-Instructor: Professor Jesse Stiles (jessestiles@cmu.edu)
-Time: M/W 9:30AM -11:20AM
-Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)
-Class website: [http://courses.ideate.cmu.edu/18-090/f2016/](https://courses.ideate.cmu.edu/18-090/f2016/)
+Instructor: Professor Jesse Stiles ([jessestiles@cmu.edu](mailto:jessestiles@cmu.edu)).  
+TA: Lauren Valley ([ljv@andrew.cmu.edu](ljv@andrew.cmu.edu))  
+Time: M/W 9:30AM - 11:20AM  
+Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
+Class website: [http://courses.ideate.cmu.edu/18-090/f2016/](https://courses.ideate.cmu.edu/18-090/f2016/)  
+Instructor office hours: Wednesdays, 2:30PM to 4:30PM.  Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).  
+TA office hours: TBA  
 
-*COURSE DESCRIPTION*
+COURSE DESCRIPTION
 
 This course presents an overview on manipulating and synthesizing sound, video, and control signals. Signals are the raw materials used in many forms of electronic art and design - electronic music, interactive art, video art, kinetic sculpture, and more. In these fields, signals are used to represent information about sound, images, sensors, and movement. By transforming and manipulating these types of signals, we are able to create powerful new tools for digital art, multimedia applications, music, responsive environments, video and sound installation, smart products, and beyond.
 
@@ -24,13 +27,13 @@ LEARNING GOALS
 
 3. Develop a familiarity with the mathematical concepts underlying Signal Processing techniques.
 
-4. Get strong at [Max](https://cycling74.com/products/max/)
+4. Get strong at [Max](https://cycling74.com/products/max/).
 
 ASSIGNMENTS
 
-There are 6 short-term assignments that will be completed over the course of the semester as well as one Final Project. Due dates for every assignment are listed [on the course calendar](https://courses.ideate.cmu.edu/18-090/f2016/calendar/). Assignments are due before the start of the class on the date indicated.
+There are 4 short-term assignments that will be completed over the course of the semester as well as 2 projects. Due dates for every assignment are listed [on the course calendar](https://courses.ideate.cmu.edu/18-090/f2016/calendar/). Assignments are due before the start of the class on the date indicated.
 
-Submission of assignments is a two step process.
+Submission of assignments/projects is a two step process.
 
 1. The student creates a post on the course website with documentation of the work. This will include code, video documentation, and audio documentation. For details on the proper formatting of documentation see [this page](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/posting-to-the-site/). Documentation that is improperly formatted will be considered unacceptable.
 
@@ -40,13 +43,17 @@ Assignments that are delivered late will be penalized. See the grading section o
 
 Additionally students are expected to author one post each week on the class website in the "Gallery" section. This can be any piece of electronic art or design that you find interesting. Your post can simply be a link to a youtube video or external site, or it can be a more descriptive article that you write. This should be done by the end of the day on Fridays so we can read the posts over the weekend and discuss them on Monday.
 
-QUOTE-UNQUOTE EXAMS
+ONLINE DISCUSSION/ANNOUNCEMENTS
 
-There will be two "exams." The word “exam” is quotation marks because these are not worth a lot of points towards your final grade. The dates for the quote-unquote Midterm Exam and quote-unquote Final Exam are [on the course calendar](http://jessestil.es/teaching/fall2015-DMI/calendar/).
+Please join the [class Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) to participate in online discussion and receive course-related announcements.  [https://www.facebook.com/groups/twisted.signals.f16/](https://www.facebook.com/groups/twisted.signals.f16/).
+
+QUIZZES
+
+There will be four quizzes to test your progress on both the theory side of things (principles of Signal Processing) and the practical side of things (creating working patches using [Max](https://cycling74.com/products/max/).  Dates for the quizzes are on indicated [on the course calendar](http://jessestil.es/teaching/fall2015-DMI/calendar/).
 
 SOFTWARE
 
-The majority of the work we do in class will be done in Max, a graphical programming environment that is optimized for artists, musicians, and other creative practitioners. For access to the software you have three options:
+The majority of the work we do in class will be done in [Max](https://cycling74.com/products/max/), a graphical programming environment that is optimized for artists, musicians, and other creative practitioners. For access to the software you have three options:
 
 You may work on the Mac Pro that is permanently installed in the Media Lab. Select the "Media Lab User" user account. When you are using this account create a folder with your Andrew ID and store all your files in this folder. It is very important that you back up your work every time you work on the computer. It is entirely possible that files on a communally used machine can be unexpectedly moved, erased, or modified. Get an external drive (physical or in the cloud) and back up your work constantly.
 
@@ -56,7 +63,11 @@ Thirdly, you may work on your own computer. A one-year license of Max is availab
 
 Max is available from Cycling 74 at:
 
-[https://cycling74.com/shop/](https://cycling74.com/shop/)
+[https://cycling74.com/shop/](https://cycling74.com/shop/).  Make sure you take advantage of the student discounts.
+
+THE GIT
+
+A Github repo with course-related patches, media, and other ephemera can be found at: [https://github.com/jts3k/Twisted-Signals-F16](https://github.com/jts3k/Twisted-Signals-F16).  This repo will be updated throughout the semester as new patches and concepts are presented in class.
 
 EQUIPMENT
 
@@ -67,8 +78,6 @@ We are able to afford these many fine instruments because we are a large communi
 USING THE MEDIA LAB
 
 You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects. To use the Media Lab outside of class time you must [make a reservation using the online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5). When using the Media Lab outside of class you must comply with the [policies indicated on the class website](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/media-lab-policies/).
-
-&nbsp;
 
 ACADEMIC INTEGRITY
 
@@ -95,27 +104,29 @@ Participation: You are invited, encouraged, and expected to engage actively in d
 
 GRADING
 
-Grading for the course is based on the assignments, exams, and class participation. Each of the short-term assignment will graded on a scale from 0 to 4 points. Of these 4 points, 2 shall be awarded to the quality and originality of the concept in the work. Another 2 points shall be awarded to the quality of the technical execution of the work. For both criteria, concept and execution, the determination shall be made accordingly:
+Grading for the course is based on the assignments, projects, quizzes, and class participation.
 
-0: Incomplete. For example: the code does not work, the work does neet address the goal of the assignment, the work was not delivered on-time.
+Each of the short-term assignment will graded on a scale from 0 to 4 points. Of these 4 points, 2 shall be awarded to the quality and originality of the concept in the work. Another 2 points shall be awarded to the quality of the technical execution of the work. For both criteria, concept and execution, the determination shall be made accordingly:
+
+0: Incomplete. For example: the code does not work, the work does not address the goal of the assignment, the work was not delivered on-time.
 
 1: Satisfactory. The work was delivered on time and addresses the goal of the assignment.
 
 2: Excellent. The work demonstrates an outstanding concept or execution. The work demonstrates great insight.
 
-Your Final Project will be evaluated in the same way, but will be worth a total of 8 points. So, the same as above, multiplied by two.
+Your projects will be evaluated in the same way, but each will be worth a total of 8 points. So, the same as above, multiplied by two.
 
-Work that is delivered late will automatically have 1 point deducted from the potential 4 point score. A further point shall be deducted for every 48 hours of lateness. For example: 1-2 days late = maximum score of 3 points. 3-4 days late = maximum score of 2 points. 5-6 days late = maximum score of 1 point. 7+ days late = 0 points.
-
-Each of the exams will be worth 4 points.
+Each of the four quizzes will be worth 2 points.
 
 Class participation will be worth 10 points. This includes your participation in discussions and activities during class-time, as well as your participation on the class website (authoring weekly posts in the gallery, authoring high-quality documentation of your own work, and commenting on posts authored by your classmates and instructor).
 
-Short term assignments: 6 x 4 = 24 points
+Work that is delivered late will automatically have 1 point deducted from the potential 4 point score. A further point shall be deducted for every 48 hours of lateness. For example: 1-2 days late = maximum score of 3 points. 3-4 days late = maximum score of 2 points. 5-6 days late = maximum score of 1 point. 7+ days late = 0 points.
 
-Final project: 8 points
+Short term assignments: 4 x 4 = 16 points
 
-Exams: 2 x 4 = 8 points
+Projects: 2 x 8 = 16 points
+
+Exams: 4 x 2 = 8 points
 
 Class participation: 10 points
 
