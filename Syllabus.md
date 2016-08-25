@@ -77,6 +77,8 @@ Please read and become familiar with the IDeATe lending and purchasing policies,
 
 Students may be required to purchase materials to complete class projects. For convenience, some materials are available for borrowing and for purchase at IDeATe Lending (Hunt A29).
 
+If you experience any issues with IDeATe facilities such as swipe card access, access to the room reservations system, non-functioning or damaged equipment, etc., send an email describing your issue to: [help@ideate.cmu.edu](mailto:help@ideate.cmu.edu).
+
 USING THE MEDIA LAB
 
 You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects. To use the Media Lab outside of class time you must [make a reservation using the online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5). When using the Media Lab outside of class you must comply with the [policies indicated on the class website](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/media-lab-policies/).
