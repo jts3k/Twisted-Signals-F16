@@ -29,9 +29,9 @@ LEARNING GOALS
 
 4. Get strong at [Max](https://cycling74.com/products/max/).
 
-ASSIGNMENTS
+ASSIGNMENTS & PROJECTS
 
-There are 4 short-term assignments that will be completed over the course of the semester as well as 2 projects. Due dates for every assignment are listed [on the course calendar](https://courses.ideate.cmu.edu/18-090/f2016/calendar/). Assignments are due before the start of the class on the date indicated.
+There are 4 short-term assignments that will be completed over the course of the semester as well as 2 longer-term projects. Due dates for every assignment are listed [on the course calendar](https://courses.ideate.cmu.edu/18-090/f2016/calendar/). Assignments are due before the start of the class on the date indicated.
 
 Submission of assignments/projects is a two step process.
 
@@ -41,15 +41,17 @@ Submission of assignments/projects is a two step process.
 
 Assignments that are delivered late will be penalized. See the grading section of the syllabus for further details.
 
-Additionally students are expected to author one post each week on the class website in the "Gallery" section. This can be any piece of electronic art or design that you find interesting. Your post can simply be a link to a youtube video or external site, or it can be a more descriptive article that you write. This should be done by the end of the day on Fridays so we can read the posts over the weekend and discuss them on Monday.
-
 ONLINE DISCUSSION/ANNOUNCEMENTS
 
-Please join the [class Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) to participate in online discussion and receive course-related announcements.  [https://www.facebook.com/groups/twisted.signals.f16/](https://www.facebook.com/groups/twisted.signals.f16/).
+Please join the [class Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) to participate in online discussion and receive course-related announcements.
+
+Students are expected to post to the [Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) at least once per week.  Your post can be about anything even tangentially related to the course.  Posts can be as simple as a link to a youtube video that you find interesting - for example documentation of [a work of electronic art](https://www.youtube.com/watch?v=AdK-no9dKIA), or a [Max tutorial](https://www.youtube.com/results?search_query=max+tutorial) you found useful.  Your posts could also just be questions or commentary that you might have about course-related topics throughout the semester.  Posting to the Facebook Group is a great way of sharing your knowledge and learning experience with your fellow students.  Please post the group by the end of the day every Sunday so that we can discuss posts in class the following Monday.
+
+ [https://www.facebook.com/groups/twisted.signals.f16/](https://www.facebook.com/groups/twisted.signals.f16/).
 
 QUIZZES
 
-There will be four quizzes to test your progress on both the theory side of things (principles of Signal Processing) and the practical side of things (creating working patches using [Max](https://cycling74.com/products/max/).  Dates for the quizzes are on indicated [on the course calendar](http://jessestil.es/teaching/fall2015-DMI/calendar/).
+There will be four short quizzes to test your progress on both the theory side of things (principles of Signal Processing) and the practical side of things (creating working patches using [Max](https://cycling74.com/products/max/).  Dates for the quizzes are on indicated [on the course calendar](http://jessestil.es/teaching/fall2015-DMI/calendar/).
 
 SOFTWARE
 
@@ -69,11 +71,11 @@ THE GIT
 
 A Github repo with course-related patches, media, and other ephemera can be found at: [https://github.com/jts3k/Twisted-Signals-F16](https://github.com/jts3k/Twisted-Signals-F16).  This repo will be updated throughout the semester as new patches and concepts are presented in class.
 
-EQUIPMENT
+EQUIPMENT & FACILITIES
 
-There is a wide variety of sound, video, and photo equipment available to you from the IDeATe storage room. The Media Lab is also packed to the gills with powerful audio/video equipment. Your participation in the course makes all of this equipment available to you throughout the semester (and in the future, if you pay a minimal "Membership Fee.")
+Please read and become familiar with the IDeATe lending and purchasing policies, which can be accessed at [resources.ideate.cmu.edu](http://resources.ideate.cmu.edu). The IDeATe facilities are shared student resources and spaces. As such, all members of the IDeATe community are expected to be respectful of the equipment, the spaces, and fellow students and their projects. Always clean up after completing your work, put things back in their correct place, and leave the lab in better condition than you found it.
 
-We are able to afford these many fine instruments because we are a large community, working together. To be a part of this community you must respect communally used equipment, and take excellent care of it. If you damage equipment due to careless behavior the cost of repairs will be charged to your student account.
+Students may be required to purchase materials to complete class projects. For convenience, some materials are available for borrowing and for purchase at IDeATe Lending (Hunt A29).
 
 USING THE MEDIA LAB
 
@@ -100,7 +102,7 @@ Attendance: Unexcused absences are disruptive and disrespectful. If you are unab
 
 Absences: You are responsible for what happens in class whether you’re here or not. Organize with your classmates to get class information and material that you have missed. We cannot repeat course material in class just for you.
 
-Participation: You are invited, encouraged, and expected to engage actively in discussion, reflection and activities. Our class time is precious and limited. Please refrain from texting, facebooking, tweeting, etc., during class time - this behavior during class is distracting, disruptive, and disrespectful. Failure to follow this request will negatively affect your grade for class participation. Your contributions towards the class website will also count towards your class participation.
+Participation: You are invited, encouraged, and expected to engage actively in discussion, reflection and activities. Our class time is precious and limited. Please refrain from distracting electronic behavior such as texting during class time.  Failure to follow this request will negatively affect your grade for class participation. Your contributions towards the class website will also count towards your class participation.
 
 GRADING
 
@@ -118,18 +120,16 @@ Your projects will be evaluated in the same way, but P1 will be worth 6 points a
 
 Each of the four quizzes will be worth 2 points.
 
-Class participation will be worth 10 points. This includes your participation in discussions and activities during class-time, as well as your participation on the class website (authoring weekly posts in the gallery, authoring high-quality documentation of your own work, and commenting on posts authored by your classmates and instructor).
+Class participation will be worth 10 points. This includes your participation in discussions and activities during class-time, as well as your online participation (posting to [the Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/), authoring high-quality documentation of your own work, and commenting on posts authored by your classmates and instructor).
 
-Work that is delivered late will automatically have 1 point deducted from the potential 4 point score. A further point shall be deducted for every 48 hours of lateness. For example: 1-2 days late = maximum score of 3 points. 3-4 days late = maximum score of 2 points. 5-6 days late = maximum score of 1 point. 7+ days late = 0 points.
+Work that is delivered late will have the potential score reduced by 10 percent for every day of lateness.  For example, work that is delivered one day late will only receive 90 percent of the points that would be received if it was delivered on time.  Work that is delivered three days late will only receive 70 percent of the potential points, etc.  Work will not be accepted if it is more than one week late.
 
-Short term assignments: 4 x 4 = 16 points
+*To summarize:*
 
-Projects: 6 + 10 = 16 points
-
-Exams: 4 x 2 = 8 points
-
-Class participation: 10 points
-
-Total: 50 points
+Short term assignments: 4 x 4 = **16 points**  
+Projects: 6 + 10 = **16 points**  
+Quizzes: 4 x 2 = **8 points**  
+Class participation: **10 points**  
+Total: ***50 points***
 
 Your final grade will be determined by multiplying the total by two and applying a curve, if appropriate.
