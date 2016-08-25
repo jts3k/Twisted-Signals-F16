@@ -1,12 +1,12 @@
 **Carnegie Mellon University**  
 ***Twisted Signals: Multimedia Processing for the Arts***
 
-Instructor: Professor Jesse Stiles ([jessestiles@cmu.edu](mailto:jessestiles@cmu.edu)).  
+Instructor: Professor Jesse Stiles ([jessestiles@cmu.edu](mailto:jessestiles@cmu.edu))    
 TA: Lauren Valley ([ljv@andrew.cmu.edu](ljv@andrew.cmu.edu))  
 Time: M/W 9:30AM - 11:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [http://courses.ideate.cmu.edu/18-090/f2016/](https://courses.ideate.cmu.edu/18-090/f2016/)  
-Instructor office hours: Wednesdays, 2:30PM to 4:30PM.  Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).  
+Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
 TA office hours: TBA  
 
 COURSE DESCRIPTION
@@ -94,7 +94,7 @@ When using found code/images/sounds in your own work there are two requirements:
 More information on CMU’s Academic Integrity policy can be found at:
 [http://www.cmu.edu/academic-integrity/](http://www.cmu.edu/academic-integrity/)
 
-ATTENDANCE &amp; CLASS PARTICIPATION
+ATTENDANCE & CLASS PARTICIPATION
 
 Attendance: Unexcused absences are disruptive and disrespectful. If you are unable to attend class for any reason you must email me in advance. Failure to contact me before the start of class will result in an unexcused absence. Three or more unexcused absences will result in the drop of one letter grade per absence. This means that if you have three unexcused absences and would otherwise receive an A in the class, you will receive a B. If you have four unexcused absences and would otherwise receive an A, you will receive a C, etc.
 
@@ -114,7 +114,7 @@ Each of the short-term assignment will graded on a scale from 0 to 4 points. Of 
 
 2: Excellent. The work demonstrates an outstanding concept or execution. The work demonstrates great insight.
 
-Your projects will be evaluated in the same way, but each will be worth a total of 8 points. So, the same as above, multiplied by two.
+Your projects will be evaluated in the same way, but P1 will be worth 6 points and P2 will be worth 10 points.  So the same as the Assignments, but then multiplied by 1.5 and 2.5 respectively.
 
 Each of the four quizzes will be worth 2 points.
 
@@ -124,7 +124,7 @@ Work that is delivered late will automatically have 1 point deducted from the po
 
 Short term assignments: 4 x 4 = 16 points
 
-Projects: 2 x 8 = 16 points
+Projects: 6 + 10 = 16 points
 
 Exams: 4 x 2 = 8 points
 
