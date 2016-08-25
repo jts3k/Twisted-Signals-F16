@@ -41,6 +41,10 @@ Submission of assignments/projects is a two step process.
 
 Assignments that are delivered late will be penalized. See the grading section of the syllabus for further details.
 
+SHARING YOUR WORK WITH ALL OF THE CMU/WORLD
+
+If you would like to share your work with the CMU community and perhaps the whole world, feel free to post your work in the IDeATe online gallery at: [gallery.ideate.cmu.edu](http://gallery.ideate.cmu.edu).  Excellent student work will be featured on the [main IDeATe website](http://ideate.cmu.edu/). 
+
 ONLINE DISCUSSION/ANNOUNCEMENTS
 
 Please join the [class Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) to participate in online discussion and receive course-related announcements.
