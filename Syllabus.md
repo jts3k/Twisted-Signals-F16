@@ -7,7 +7,7 @@ Time: M/W 9:30AM - 11:20AM
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [http://courses.ideate.cmu.edu/18-090/f2016/](https://courses.ideate.cmu.edu/18-090/f2016/)  
 Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
-TA office hours: TBA  
+TA office hours: Fridays, 2-4PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing). 
 
 COURSE DESCRIPTION
 
