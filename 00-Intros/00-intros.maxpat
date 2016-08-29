@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 2,
-			"revision" : 4,
+			"minor" : 1,
+			"revision" : 0,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
@@ -47,8 +47,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 4,
+							"minor" : 1,
+							"revision" : 0,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -246,7 +246,7 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 203.0, 222.0, 234.0, 23.0 ],
-					"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/00-Intros/media/",
+					"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/Twisted-Signals-F16/00-Intros/media/",
 					"style" : ""
 				}
 
@@ -261,8 +261,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 4,
+							"minor" : 1,
+							"revision" : 0,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -471,7 +471,7 @@
 									"outlettype" : [ "int", "", "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 50.0, 323.0, 220.0, 22.0 ],
-									"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/00-Intros/media/",
+									"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/Twisted-Signals-F16/00-Intros/media/",
 									"style" : ""
 								}
 
@@ -684,8 +684,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 4,
+							"minor" : 1,
+							"revision" : 0,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -878,7 +878,6 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-15",
-					"int" : 1,
 					"maxclass" : "gswitch",
 					"numinlets" : 3,
 					"numoutlets" : 1,
@@ -946,8 +945,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 4,
+							"minor" : 1,
+							"revision" : 0,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -1071,7 +1070,7 @@
 									"outlettype" : [ "int", "", "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 172.0, 241.0, 100.0, 23.0 ],
-									"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/00-Intros/fx/",
+									"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/Twisted-Signals-F16/00-Intros/lib/fx/",
 									"presentation" : 1,
 									"presentation_rect" : [ 33.0, 3.0, 127.0, 23.0 ],
 									"style" : "wm20150520a"
@@ -1193,7 +1192,12 @@
 						"styles" : [ 							{
 								"name" : "wm20150520a",
 								"default" : 								{
+									"fontname" : [ "Monaco" ],
+									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
+									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
+									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -1203,12 +1207,7 @@
 										"proportion" : 0.39,
 										"autogradient" : 0
 									}
-,
-									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
-									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
-									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
-									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
-									"fontname" : [ "Monaco" ]
+
 								}
 ,
 								"parentstyle" : "",
@@ -1241,8 +1240,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 4,
+							"minor" : 1,
+							"revision" : 0,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -1366,7 +1365,7 @@
 									"outlettype" : [ "int", "", "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 172.0, 241.0, 100.0, 23.0 ],
-									"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/00-Intros/fx/",
+									"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/Twisted-Signals-F16/00-Intros/lib/fx/",
 									"presentation" : 1,
 									"presentation_rect" : [ 33.0, 3.0, 127.0, 23.0 ],
 									"style" : "wm20150520a"
@@ -1488,7 +1487,12 @@
 						"styles" : [ 							{
 								"name" : "wm20150520a",
 								"default" : 								{
+									"fontname" : [ "Monaco" ],
+									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
+									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
+									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -1498,12 +1502,7 @@
 										"proportion" : 0.39,
 										"autogradient" : 0
 									}
-,
-									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
-									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
-									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
-									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
-									"fontname" : [ "Monaco" ]
+
 								}
 ,
 								"parentstyle" : "",
@@ -1536,8 +1535,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 4,
+							"minor" : 1,
+							"revision" : 0,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -1661,7 +1660,7 @@
 									"outlettype" : [ "int", "", "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 172.0, 241.0, 100.0, 23.0 ],
-									"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/00-Intros/fx/",
+									"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/Twisted-Signals-F16/00-Intros/lib/fx/",
 									"presentation" : 1,
 									"presentation_rect" : [ 33.0, 3.0, 127.0, 23.0 ],
 									"style" : "wm20150520a"
@@ -1783,7 +1782,12 @@
 						"styles" : [ 							{
 								"name" : "wm20150520a",
 								"default" : 								{
+									"fontname" : [ "Monaco" ],
+									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
+									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
+									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -1793,12 +1797,7 @@
 										"proportion" : 0.39,
 										"autogradient" : 0
 									}
-,
-									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
-									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
-									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
-									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
-									"fontname" : [ "Monaco" ]
+
 								}
 ,
 								"parentstyle" : "",
@@ -2050,7 +2049,12 @@
 		"styles" : [ 			{
 				"name" : "wm20150520a",
 				"default" : 				{
+					"fontname" : [ "Monaco" ],
+					"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
+					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
+					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -2060,12 +2064,7 @@
 						"proportion" : 0.39,
 						"autogradient" : 0
 					}
-,
-					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
-					"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
-					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
-					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
-					"fontname" : [ "Monaco" ]
+
 				}
 ,
 				"parentstyle" : "",
