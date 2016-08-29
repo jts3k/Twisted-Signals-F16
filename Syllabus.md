@@ -43,7 +43,7 @@ Assignments that are delivered late will be penalized. See the grading section o
 
 SHARING YOUR WORK WITH ALL OF THE CMU/WORLD
 
-If you would like to share your work with the CMU community and perhaps the whole world, feel free to post your work in the IDeATe online gallery at: [gallery.ideate.cmu.edu](http://gallery.ideate.cmu.edu).  Excellent student work will be featured on the [main IDeATe website](http://ideate.cmu.edu/). 
+If you would like to share your work with the CMU community and perhaps the whole world, feel free to post your work in the IDeATe online gallery at: [gallery.ideate.cmu.edu](http://gallery.ideate.cmu.edu).  Excellent student work will be featured on the [main IDeATe website](http://ideate.cmu.edu/).
 
 ONLINE DISCUSSION/ANNOUNCEMENTS
 
@@ -82,6 +82,14 @@ Please read and become familiar with the IDeATe lending and purchasing policies,
 Students may be required to purchase materials to complete class projects. For convenience, some materials are available for borrowing and for purchase at IDeATe Lending (Hunt A29).
 
 If you experience any issues with IDeATe facilities such as swipe card access, access to the room reservations system, non-functioning or damaged equipment, etc., send an email describing your issue to: [help@ideate.cmu.edu](mailto:help@ideate.cmu.edu).
+
+ONLINE RESOURCES
+
+A list of excellent online resources has been posted on the course website [here](https://courses.ideate.cmu.edu/18-090/f2016/resources/).  An essential resource is the Cycling 74 discussion forums, it is highly recommended that you join the forums and the read discussions that arise - you will learn *a lot*.  This is also a great place to get questions answered, and to seek out advice for problem-solving.  If you post questions clearly and politely you are likely to get some great responses very quickly.
+
+ON TAKING NOTES
+
+You should take notes.
 
 USING THE MEDIA LAB
 
