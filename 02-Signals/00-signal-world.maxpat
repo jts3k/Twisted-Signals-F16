@@ -3,13 +3,13 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 0,
-			"revision" : 5,
+			"minor" : 2,
+			"revision" : 4,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 832.0, 417.0, 1366.0, 674.0 ],
+		"rect" : [ 979.0, 596.0, 1366.0, 674.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -111,13 +111,13 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 26.0, 1366.0, 648.0 ],
+						"rect" : [ 979.0, 622.0, 1366.0, 648.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -146,6 +146,19 @@
 						"subpatcher_template" : "",
 						"showontab" : 1,
 						"boxes" : [ 							{
+								"box" : 								{
+									"id" : "obj-9",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 101.0, 145.0, 37.0, 22.0 ],
+									"style" : "",
+									"text" : "open"
+								}
+
+							}
+, 							{
 								"box" : 								{
 									"id" : "obj-15",
 									"maxclass" : "number",
@@ -428,6 +441,15 @@
 								}
 
 							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-2", 0 ],
+									"disabled" : 0,
+									"hidden" : 0,
+									"source" : [ "obj-9", 0 ]
+								}
+
+							}
  ]
 					}
 ,
@@ -455,8 +477,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -565,7 +587,7 @@
 									"outlettype" : [ "int", "", "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 428.0, 186.0, 234.0, 22.0 ],
-									"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/image-degrade/",
+									"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/02-Signals/media/image-degrade/",
 									"style" : "default"
 								}
 
@@ -580,8 +602,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 5,
+											"minor" : 2,
+											"revision" : 4,
 											"architecture" : "x86",
 											"modernui" : 1
 										}
@@ -649,7 +671,7 @@
 													"outlettype" : [ "int", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 210.0, 336.0, 234.0, 22.0 ],
-													"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/image-degrade/",
+													"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/02-Signals/media/image-degrade/",
 													"style" : "default"
 												}
 
@@ -860,7 +882,6 @@
 										"styles" : [ 											{
 												"name" : "wm20150520a",
 												"default" : 												{
-													"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -874,6 +895,7 @@
 													"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
 													"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 													"fontname" : [ "Monaco" ],
+													"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 													"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
 													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
@@ -935,8 +957,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 5,
+											"minor" : 2,
+											"revision" : 4,
 											"architecture" : "x86",
 											"modernui" : 1
 										}
@@ -1509,7 +1531,6 @@
 						"styles" : [ 							{
 								"name" : "wm20150520a",
 								"default" : 								{
-									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -1523,6 +1544,7 @@
 									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
 									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 									"fontname" : [ "Monaco" ],
+									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
 									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
@@ -1557,8 +1579,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -1884,8 +1906,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -1944,7 +1966,7 @@
 										"followglobaltempo" : 0,
 										"formantcorrection" : 0,
 										"mode" : "basic",
-										"originallength" : [ 5119.956543, "ticks" ],
+										"originallength" : [ 12566.225586, "ticks" ],
 										"originaltempo" : 120.0,
 										"pitchcorrection" : 0,
 										"quality" : "basic",
@@ -2240,8 +2262,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -2718,8 +2740,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -2853,7 +2875,7 @@
 									"outlettype" : [ "int", "", "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 203.0, 222.0, 234.0, 22.0 ],
-									"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/slides/",
+									"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/02-Signals/media/slides/",
 									"style" : "default"
 								}
 
@@ -2868,8 +2890,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 5,
+											"minor" : 2,
+											"revision" : 4,
 											"architecture" : "x86",
 											"modernui" : 1
 										}
@@ -2950,7 +2972,7 @@
 													"outlettype" : [ "int", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 210.0, 336.0, 234.0, 22.0 ],
-													"prefix" : "Macintosh HD:/Users/jessestiles/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/slides/",
+													"prefix" : "Macintosh HD:/Users/stilesj/Google Drive/patches/Twisted-Signals-F16/02-Signals/media/slides/",
 													"style" : "default"
 												}
 
@@ -3170,7 +3192,6 @@
 										"styles" : [ 											{
 												"name" : "wm20150520a",
 												"default" : 												{
-													"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -3184,6 +3205,7 @@
 													"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
 													"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 													"fontname" : [ "Monaco" ],
+													"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 													"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
 													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
@@ -3245,8 +3267,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 5,
+											"minor" : 2,
+											"revision" : 4,
 											"architecture" : "x86",
 											"modernui" : 1
 										}
@@ -3575,7 +3597,6 @@
 						"styles" : [ 							{
 								"name" : "wm20150520a",
 								"default" : 								{
-									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -3589,6 +3610,7 @@
 									"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
 									"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 									"fontname" : [ "Monaco" ],
+									"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 									"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
 									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
@@ -3623,8 +3645,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -3914,8 +3936,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -4063,8 +4085,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 5,
+											"minor" : 2,
+											"revision" : 4,
 											"architecture" : "x86",
 											"modernui" : 1
 										}
@@ -4926,8 +4948,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 5,
+							"minor" : 2,
+							"revision" : 4,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -5258,19 +5280,19 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-8::obj-1::obj-6" : [ "live.tab[3]", "live.tab[1]", 0 ],
-			"obj-4::obj-9" : [ "live.gain~", "live.gain~", 0 ]
+			"obj-4::obj-9" : [ "live.gain~", "live.gain~", 0 ],
+			"obj-8::obj-1::obj-6" : [ "live.tab[3]", "live.tab[1]", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "amplitude.gif",
-				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/graphix/signal properties",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 201501026a/02-Signals/media/graphix/signal properties",
 				"type" : "GIFf",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "period.gif",
-				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/graphix/signal properties",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 201501026a/02-Signals/media/graphix/signal properties",
 				"type" : "GIFf",
 				"implicit" : 1
 			}
@@ -5300,34 +5322,33 @@
 			}
 , 			{
 				"name" : "periodicity.png",
-				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/graphix",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 201501026a/02-Signals/media/graphix",
 				"type" : "PNG ",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "phase.png",
-				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/graphix/signal properties",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 201501026a/02-Signals/media/graphix/signal properties",
 				"type" : "PNG ",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "myvid.maxpat",
-				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/DMI-F15/00-Intros/lib",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 201501026a/00-Intros/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "signal world.png",
-				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/DMI-F15/02-Signals/media/graphix",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 201501026a/02-Signals/media/graphix",
 				"type" : "PNG ",
 				"implicit" : 1
 			}
  ],
-		"embedsnapshot" : 0,
+		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "wm20150520a",
 				"default" : 				{
-					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -5341,6 +5362,7 @@
 					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
 					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 					"fontname" : [ "Monaco" ],
+					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
 					"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
 					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
