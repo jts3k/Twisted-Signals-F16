@@ -7,7 +7,7 @@ Time: M/W 9:30AM - 11:20AM
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [http://courses.ideate.cmu.edu/18-090/f2016/](https://courses.ideate.cmu.edu/18-090/f2016/)  
 Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
-TA office hours: Fridays, 2-4PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing). 
+TA office hours: Fridays, 2-4PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
 COURSE DESCRIPTION
 
@@ -93,7 +93,7 @@ You should take notes.
 
 USING THE MEDIA LAB
 
-You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects. To use the Media Lab outside of class time you must [make a reservation using the online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5). When using the Media Lab outside of class you must comply with the [policies indicated on the class website](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/media-lab-policies/).
+You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects. To use the Media Lab outside of class time you must [make a reservation using the online reservation system](https://resources.ideate.cmu.edu/reservations/day.php?area=5). When using the Media Lab outside of class you must comply with the [policies indicated on the class website](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/media-lab-policies/).
 
 ACADEMIC INTEGRITY
 
