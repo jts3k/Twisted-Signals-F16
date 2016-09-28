@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 615.0, 144.0, 1610.0, 872.0 ],
+		"rect" : [ 640.0, 305.0, 1610.0, 872.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,18 +38,6 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-3",
-					"maxclass" : "newobj",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 589.0, 334.0, 56.0, 22.0 ],
-					"style" : "",
-					"text" : "2dscope"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-11",
 					"maxclass" : "kslider",
 					"mode" : 1,
@@ -60,18 +48,6 @@
 					"patching_rect" : [ 355.333344, 8.833332, 336.0, 53.0 ],
 					"presentation_rect" : [ 0.0, 0.0, 336.0, 53.0 ],
 					"style" : ""
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 475.666687, 195.0, 34.0, 22.0 ],
-					"style" : "",
-					"text" : "print"
 				}
 
 			}
@@ -212,25 +188,16 @@
 				}
 
 			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-10", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-9", 0 ]
-				}
-
-			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "poly-child.maxpat",
-				"bootpath" : "~/Github/Twisted-Signals-F16/made-in-class/polysynth",
+				"name" : "polysynth-child.maxpat",
+				"bootpath" : "~/Github/Twisted-Signals-F16/10-audiovisual-synthesis",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "2dscope.maxpat",
-				"bootpath" : "~/Github/Twisted-Signals-F16/10-audiovisual-synthesis",
+				"name" : "poly-child.maxpat",
+				"bootpath" : "~/Github/Twisted-Signals-F16/made-in-class/polysynth",
 				"type" : "JSON",
 				"implicit" : 1
 			}
