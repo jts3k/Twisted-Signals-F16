@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 92.0, 122.0, 1610.0, 872.0 ],
+		"rect" : [ 34.0, 87.0, 1852.0, 963.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -42,7 +42,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 576.0, 271.333344, 56.0, 22.0 ],
+					"patching_rect" : [ 666.666687, 382.0, 56.0, 22.0 ],
 					"style" : "",
 					"text" : "2dscope"
 				}
@@ -57,7 +57,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 355.333344, 8.833332, 336.0, 53.0 ],
+					"patching_rect" : [ 463.333344, 96.833336, 336.0, 53.0 ],
 					"presentation_rect" : [ 0.0, 0.0, 336.0, 53.0 ],
 					"style" : ""
 				}
@@ -70,7 +70,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 318.333344, 122.000008, 103.0, 22.0 ],
+					"patching_rect" : [ 409.0, 232.666672, 103.0, 22.0 ],
 					"style" : "",
 					"text" : "prepend midinote"
 				}
@@ -83,7 +83,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 318.333344, 89.000008, 56.0, 22.0 ],
+					"patching_rect" : [ 409.0, 199.666672, 56.0, 22.0 ],
 					"style" : "",
 					"text" : "pack 0 0"
 				}
@@ -96,7 +96,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "int", "int", "int" ],
-					"patching_rect" : [ 304.333344, 24.333332, 43.0, 22.0 ],
+					"patching_rect" : [ 395.0, 135.0, 43.0, 22.0 ],
 					"style" : "",
 					"text" : "notein"
 				}
@@ -108,7 +108,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 325.666687, 271.333344, 37.0, 22.0 ],
+					"patching_rect" : [ 416.333344, 382.0, 37.0, 22.0 ],
 					"style" : "",
 					"text" : "dac~"
 				}
@@ -121,9 +121,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 325.666687, 207.666672, 110.0, 22.0 ],
+					"patching_rect" : [ 416.333344, 318.333344, 139.0, 22.0 ],
 					"style" : "",
-					"text" : "poly~ poly-child 10"
+					"text" : "poly~ polysynth-child 10"
 				}
 
 			}
@@ -202,14 +202,14 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "poly-child.maxpat",
-				"bootpath" : "~/Google Drive/patches/Twisted-Signals-F16/Twisted-Signals-F16/made-in-class/polysynth",
+				"name" : "polysynth-child.maxpat",
+				"bootpath" : "~/Google Drive/patches/Twisted-Signals-F16/Twisted-Signals-F16/10-audiovisual-synthesis/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "2dscope.maxpat",
-				"bootpath" : "~/Google Drive/patches/Twisted-Signals-F16/Twisted-Signals-F16/10-audiovisual-synthesis",
+				"bootpath" : "~/Google Drive/patches/Twisted-Signals-F16/Twisted-Signals-F16/10-audiovisual-synthesis/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
