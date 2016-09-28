@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 2,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 640.0, 305.0, 1610.0, 872.0 ],
+		"rect" : [ 92.0, 122.0, 1610.0, 872.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,6 +37,18 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 576.0, 271.333344, 56.0, 22.0 ],
+					"style" : "",
+					"text" : "2dscope"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-11",
 					"maxclass" : "kslider",
@@ -190,14 +202,14 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "polysynth-child.maxpat",
-				"bootpath" : "~/Github/Twisted-Signals-F16/10-audiovisual-synthesis",
+				"name" : "poly-child.maxpat",
+				"bootpath" : "~/Google Drive/patches/Twisted-Signals-F16/Twisted-Signals-F16/made-in-class/polysynth",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "poly-child.maxpat",
-				"bootpath" : "~/Github/Twisted-Signals-F16/made-in-class/polysynth",
+				"name" : "2dscope.maxpat",
+				"bootpath" : "~/Google Drive/patches/Twisted-Signals-F16/Twisted-Signals-F16/10-audiovisual-synthesis",
 				"type" : "JSON",
 				"implicit" : 1
 			}
