@@ -3,7 +3,7 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 0,
+			"minor" : 2,
 			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
@@ -39,12 +39,13 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-8",
-					"maxclass" : "toggle",
+					"maxclass" : "playbar",
 					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 34.5, 93.0, 24.0, 24.0 ],
+					"numoutlets" : 2,
+					"outlettype" : [ "", "int" ],
+					"patching_rect" : [ 34.5, 93.0, 211.0, 36.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 75.0, 75.0, 203.0, 36.0 ],
 					"style" : ""
 				}
 
@@ -573,18 +574,14 @@
 
 			}
  ],
-		"parameters" : 		{
-
-		}
-,
 		"dependency_cache" : [ 			{
 				"name" : "youtubepfft.maxpat",
-				"bootpath" : "~/Google Drive/patches/SP4CP/20141027/examples/04 youtubery/lib",
+				"bootpath" : "~/Google Drive/patches/DigitalMediaInteractions/backups/DMI-F15 20151025/09-Spectral-Examples/04 youtubery/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
  ],
-		"embedsnapshot" : 0
+		"autosave" : 0
 	}
 
 }
