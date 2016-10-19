@@ -1,0 +1,65 @@
+{
+	"pattrstorage" : 	{
+		"name" : "stretcher",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"fade" : [ 0.5 ],
+					"grainsize" : [ 162 ],
+					"live.gain~" : [ 0.0 ],
+					"pitch" : [ 1.0 ],
+					"pitch-random" : [ 0.0 ],
+					"position-random" : [ 38.0 ],
+					"speed" : [ 0.047 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"fade" : [ 0.5 ],
+					"grainsize" : [ 12 ],
+					"live.gain~" : [ 0.0 ],
+					"pitch" : [ 0.5 ],
+					"pitch-random" : [ 0.0 ],
+					"position-random" : [ 417.0 ],
+					"speed" : [ 1.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"fade" : [ 0.5 ],
+					"grainsize" : [ 341 ],
+					"live.gain~" : [ 0.0 ],
+					"pitch" : [ 2.0 ],
+					"pitch-random" : [ 0.0 ],
+					"position-random" : [ 417.0 ],
+					"speed" : [ -0.33 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"fade" : [ 0.5 ],
+					"grainsize" : [ 157 ],
+					"live.gain~" : [ 0.0 ],
+					"pitch" : [ 1.0 ],
+					"pitch-random" : [ 0.13 ],
+					"position-random" : [ 417.0 ],
+					"speed" : [ -0.33 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
