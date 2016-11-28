@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 2,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 405.0, 238.0, 1716.0, 956.0 ],
+		"rect" : [ 34.0, 79.0, 1852.0, 963.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,12 +38,24 @@
 		"subpatcher_template" : "my-temp",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 294.0, 218.399994, 43.0, 22.0 ],
+					"style" : "",
+					"text" : "s toml"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-7",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 57.0, 194.0, 57.0, 22.0 ],
+					"patching_rect" : [ 225.0, 177.0, 57.0, 22.0 ],
 					"style" : "",
 					"text" : "zl slice 3"
 				}
@@ -55,7 +67,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 132.0, 148.0, 419.0, 20.0 ],
+					"patching_rect" : [ 284.0, 131.0, 419.0, 20.0 ],
 					"style" : "",
 					"text" : "<< download this object at https://forge.ircam.fr/p/leapmotion/downloads/480/"
 				}
@@ -64,13 +76,14 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-4",
+					"linecount" : 11,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 69.0, 267.0, 975.0, 22.0 ],
+					"patching_rect" : [ 167.800018, 224.399994, 114.199989, 156.0 ],
 					"style" : "default",
-					"text" : "-160.549133 67.358521 24.618965 -169.284256 58.183315 15.476323 -164.916687 62.77092 20.047644 0.559123 0.587293 0.585208"
+					"text" : "273.925995 215.864029 269.076965 277.847137 216.764999 284.478027 275.886566 216.314514 276.777496 -0.246335 -0.056601 -0.96753"
 				}
 
 			}
@@ -81,7 +94,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 37.0, 109.0, 122.0, 22.0 ],
+					"patching_rect" : [ 205.0, 92.0, 122.0, 22.0 ],
 					"style" : "default",
 					"text" : "qmetro 10 @active 1"
 				}
@@ -94,7 +107,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 6,
 					"outlettype" : [ "", "", "", "", "", "" ],
-					"patching_rect" : [ 37.0, 148.0, 69.0, 22.0 ],
+					"patching_rect" : [ 205.0, 131.0, 69.0, 22.0 ],
 					"style" : "default",
 					"text" : "leapmotion"
 				}
@@ -121,6 +134,15 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-7", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-4", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -138,11 +160,6 @@
 		"styles" : [ 			{
 				"name" : "wm20150520a",
 				"default" : 				{
-					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
-					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
-					"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
-					"fontname" : [ "Monaco" ],
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -153,7 +170,12 @@
 						"autogradient" : 0
 					}
 ,
-					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ]
+					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
+					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
+					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
+					"fontname" : [ "Monaco" ],
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
